@@ -1,0 +1,15 @@
+/mnt/c/home/rust-learn/iron-gcd/target/debug/deps/libserde-aeda0bbffbb2ddac.rlib: /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/mnt/c/home/rust-learn/iron-gcd/target/debug/deps/serde-aeda0bbffbb2ddac.d: /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs:
+/mnt/c/home/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs:
