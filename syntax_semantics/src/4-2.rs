@@ -83,12 +83,11 @@ fn mode010() {
         i + 1
     }
 
-    let f= plus_one;
+    let f = plus_one;
 
     let six = f(5);
     println!("res is {}", six);
 }
-
 
 
 fn main() {
