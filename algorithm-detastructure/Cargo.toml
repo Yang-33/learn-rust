@@ -1,6 +1,0 @@
-[package]
-name = "algorithm-detastructure"
-version = "0.1.0"
-authors = ["Yang-33 <kasai.yuta0810@gmail.com>"]
-
-[dependencies]
