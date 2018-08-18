@@ -1,7 +1,7 @@
 /cmake-build-debug
 /.idea
-algorithm-detastructure/target/
-hello/target/
-iron-gcd/target/
-mandelbrot/target/
-syntax_semantics/target/
+algorithm-detastructure/target/*
+hello/target/*
+iron-gcd/target/*
+mandelbrot/target/*
+syntax_semantics/target/*
