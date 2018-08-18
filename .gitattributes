@@ -1,0 +1,2 @@
+*.toml linguist-language=Rust
+*.lock linguist-language=Rust
